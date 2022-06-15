@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yeohhq
 - 👀 I’m interested in Frontend Development and UI/UX!
 - 🌱 I’m currently learning React :)
-- 📫 How to reach me: Telegram @yeohhuiqing
+- 📫 How to reach me: yeohhuiqing00@gmail.com or if you'd like: Telegram @yeohhuiqing
 
 <!---
 yeohhq/yeohhq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
