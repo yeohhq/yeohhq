@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yeohhq
-- 👀 I’m interested in Frontend Development and UI/UX!
-- 🌱 I’m currently learning React :)
+- 👀 I’m interested in Fullstack Development and UI/UX!
 - 📫 How to reach me: yeohhuiqing00@gmail.com or if you'd like: Telegram @yeohhuiqing
 
 <!---
